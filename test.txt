@@ -1,0 +1,2 @@
+load text.txt
+exit
