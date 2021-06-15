@@ -1,0 +1,20 @@
+add akk5 2540
+add akk5 2540
+add akk5 2300
+add tim 2540
+add tony 6500
+add bee36 210
+add sandy 61
+display ticket in
+display ticket pre
+display ticket post
+display user in
+display user pre
+display user post
+find sandy 61
+find sandy 70
+remove sandy 61
+display ticket in
+display user in 
+save ticket into file
+
