@@ -1,3 +1,11 @@
+/*
+Student Name: Robert Ward
+Student NetID: rww189
+Compiler Used: Visual Studio
+Program Description:
+A Binary Search tree that stores userIDs and UserNames 
+and can search for both
+*/
 #pragma once
 #include <fstream>
 #include <iostream>

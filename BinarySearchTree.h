@@ -160,7 +160,6 @@ struct BinarySearchTree
 		return false;
 
 	}
-	void SaveToFile(){}
 	//i figured these out from the slides
 	void inOrder(Node* root, ostream& os)
 	{
